@@ -127,12 +127,5 @@ GitHub will give you a link like this:
 https://YOUR-USERNAME.github.io/space-invaders-final-project/
 ```
 
-## Suggested class submission files
 
-Inside the `submission/` folder, include:
 
-- `main.cpp` or `cpp-sfml/src/main.cpp`
-- `Final_Project_Documentation.docx`
-- Your own screenshot of the running game
-
-A sample screenshot is included, but you should replace it with a screenshot from your own computer if your teacher wants proof that you ran the project yourself.

@@ -43,4 +43,3 @@ The player uses the keyboard to move, shoot, restart, and quit the game.
 - Justin: Player data, keyboard event handling, player movement, player shooting, enemy movement, and enemy shooting.
 - Denim: Rendering, colors, star background, player/enemy drawing, bullet drawing, shield drawing, HUD/life indicators, and visual layout.
 
-Note: Keep these responsibility notes only if they accurately match your team's actual work.
