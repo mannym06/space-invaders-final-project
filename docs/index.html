@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Space Invaders - Browser Version</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="game-card">
+      <div class="header-row">
+        <div>
+          <h1>Space Invaders</h1>
+          <p>C++ SFML class project with a browser-playable GitHub Pages version.</p>
+        </div>
+        <button id="restartButton" type="button">Restart</button>
+      </div>
+
+      <canvas id="gameCanvas" width="900" height="700" aria-label="Space Invaders game canvas"></canvas>
+
+      <div class="controls">
+        <span>Move: A/D or Arrow Keys</span>
+        <span>Shoot: Space</span>
+        <span>Restart: R</span>
+      </div>
+      <p class="team-line">Team: Nabila, Justin, Denim, Manuel</p>
+    </section>
+  </main>
+
+  <script src="game.js"></script>
+</body>
+</html>

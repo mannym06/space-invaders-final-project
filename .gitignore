@@ -1,0 +1,15 @@
+# C++ build folders
+build/
+cpp-sfml/build/
+
+# macOS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Compiled binaries
+SpaceInvaders
+*.o
+*.out
